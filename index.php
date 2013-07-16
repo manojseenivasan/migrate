@@ -22,7 +22,7 @@
  * @package    Mage
  * @copyright  Copyright (c) 2008 Irubin Consulting Inc. DBA Varien (http://www.varien.com)
  * @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
- * magento 1.7
+ * magento 1.7.2
  */
 
 if (version_compare(phpversion(), '5.2.0', '<')===true) {
